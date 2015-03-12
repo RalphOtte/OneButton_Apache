@@ -1,0 +1,13 @@
+Tim:
+Art
+OnePage Design
+
+
+
+Jimmy:
+Sound & SFX
+Player movement
+
+
+Ralph:
+RNG level generator

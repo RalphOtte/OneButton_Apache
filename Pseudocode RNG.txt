@@ -1,0 +1,9 @@
+1# Determine max width: (screensize)
+
+2# Look for blocks already on screen: Get size.
+
+3# Substract current size(#2) from screen size.
+
+4# Generate random number for heigth 
+
+5# Spawn block(fill & height size from #3)
